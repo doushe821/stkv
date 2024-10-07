@@ -1,0 +1,74 @@
+########################## STACK INFO ##########################
+##CALLER STACK NAME: &stk
+## CALLER STACK POINTER: 0x7ffd9fcf8150
+## CALLER FILE    : 
+## CALLER FUNCTION: 
+## LINE          = 0
+## STACK SIZE    = 0
+## STACK CAPACIY = 8
+## STACK DATA: 0x5ba74e64a480
+## DATA BUFFER: 
+### BOTTOM CANARY: 78
+# [2122219134]  (1) (POISON)
+# [2122219134]  (2) (POISON)
+# [2122219134]  (3) (POISON)
+# [2122219134]  (4) (POISON)
+# [2122219134]  (5) (POISON)
+# [2122219134]  (6) (POISON)
+# [2122219134]  (7) (POISON)
+# [2122219134]  (8) (POISON)
+### TOP CANARY: 78
+## HASH SUM: 8244675320277974347
+## ERRORS: 0000000000000000
+################################################################
+
+
+
+########################## STACK INFO ##########################
+##CALLER STACK NAME: &stk
+## CALLER STACK POINTER: 0x7ffd9fcf8150
+## CALLER FILE    : 
+## CALLER FUNCTION: 
+## LINE          = 0
+## STACK SIZE    = 1
+## STACK CAPACIY = 8
+## STACK DATA: 0x5ba74e64a480
+## DATA BUFFER: 
+### BOTTOM CANARY: 78
+# [777]  (1)
+# [2122219134]  (2) (POISON)
+# [2122219134]  (3) (POISON)
+# [2122219134]  (4) (POISON)
+# [2122219134]  (5) (POISON)
+# [2122219134]  (6) (POISON)
+# [2122219134]  (7) (POISON)
+# [2122219134]  (8) (POISON)
+### TOP CANARY: 78
+## HASH SUM: 8244675323262736417
+## ERRORS: 0000000000000000
+################################################################
+
+
+
+########################## STACK INFO ##########################
+##CALLER STACK NAME: &stk
+## CALLER STACK POINTER: 0x7ffd9fcf8150
+## CALLER FILE    : 
+## CALLER FUNCTION: 
+## LINE          = 0
+## STACK SIZE    = 1
+## STACK CAPACIY = 4
+## STACK DATA: 0x5ba74e64a4b0
+## DATA BUFFER: 
+### BOTTOM CANARY: 78
+# [777]  (1)
+# [2122219134]  (2) (POISON)
+# [2122219134]  (3) (POISON)
+# [2122219134]  (4) (POISON)
+### TOP CANARY: 78
+## HASH SUM: 6952128618401
+## ERRORS: 0000000000000000
+################################################################
+
+
+
